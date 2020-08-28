@@ -18,6 +18,7 @@ const useStyles = makeStyles(theme => ({
     root: {
         margin: '50px',
         padding: theme.spacing(3,2),
+        height: theme.spacing(82)
     },
     flex: {
         display: 'flex',
